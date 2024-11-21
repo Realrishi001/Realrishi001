@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Realrishi001
+- 👋 Hi, I’m @rishiurankar
 - 👀 I’m interested in coding(java & web programming), video editing and graphics designing 
 - 🌱 I’m currently learning Bachelor of Science in Information Technology
 - 💞️ I’m looking to collaborate on ...
